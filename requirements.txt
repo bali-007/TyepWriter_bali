@@ -1,6 +1,1 @@
-colorama==0.4.4
-pynput==1.7.4
-selenium==4.0.0
-setuptools==75.1.0
-six==1.16.0
-webdriver-manager==4.0.2
+pip install colorama pynput selenium setuptools six webdriver-manager
